@@ -166,7 +166,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     QAS_DVC_MSP_VZW \
-    datastatusnotification \
     ims \
     uceShimService \
     vzw_msdc_api \
